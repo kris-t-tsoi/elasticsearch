@@ -18,7 +18,6 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 22573: The code less traveled
 22621: Group 1
 22748: Group 1
-22768: Evil_Engineers
 22821: Random 1
 22840: Group SmallBit
 22845: java ych
@@ -29,3 +28,6 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 23329: JAH
 23381: Group 1
 23446: Group SmallBit
+18109: Krispy Belgian Cookies
+21974: Krispy Belgian Cookies
+9538: Krispy Belgian Cookies
